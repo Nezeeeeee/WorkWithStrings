@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassSystemString", "ClassS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperationsWithStrings", "OperationsWithStrings\OperationsWithStrings.csproj", "{BDB0D73C-3676-4520-9695-7B39CDB8A06D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formattingAndInterpolationOfStrings", "formattingAndInterpolationOfStrings\formattingAndInterpolationOfStrings.csproj", "{EE6674EB-6742-40A6-861C-AFEB5CC0C72D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BDB0D73C-3676-4520-9695-7B39CDB8A06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDB0D73C-3676-4520-9695-7B39CDB8A06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDB0D73C-3676-4520-9695-7B39CDB8A06D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE6674EB-6742-40A6-861C-AFEB5CC0C72D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE6674EB-6742-40A6-861C-AFEB5CC0C72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE6674EB-6742-40A6-861C-AFEB5CC0C72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE6674EB-6742-40A6-861C-AFEB5CC0C72D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
