@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperationsWithStrings", "Op
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formattingAndInterpolationOfStrings", "formattingAndInterpolationOfStrings\formattingAndInterpolationOfStrings.csproj", "{EE6674EB-6742-40A6-861C-AFEB5CC0C72D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassStringBuilder", "ClassStringBuilder\ClassStringBuilder.csproj", "{EBC24DE7-2307-492C-8834-014846C3ADD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpressionsLesson", "RegularExpressionsLesson\RegularExpressionsLesson.csproj", "{A1A0E788-B849-4EC3-8E2E-D26DD636920E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{EE6674EB-6742-40A6-861C-AFEB5CC0C72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE6674EB-6742-40A6-861C-AFEB5CC0C72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE6674EB-6742-40A6-861C-AFEB5CC0C72D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC24DE7-2307-492C-8834-014846C3ADD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC24DE7-2307-492C-8834-014846C3ADD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC24DE7-2307-492C-8834-014846C3ADD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC24DE7-2307-492C-8834-014846C3ADD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1A0E788-B849-4EC3-8E2E-D26DD636920E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A0E788-B849-4EC3-8E2E-D26DD636920E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A0E788-B849-4EC3-8E2E-D26DD636920E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A0E788-B849-4EC3-8E2E-D26DD636920E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
